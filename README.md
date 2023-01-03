@@ -6,3 +6,4 @@ But SimplKitchen isn't just about meal planning - it's also about connecting wit
 In addition to these features, SimplKitchen also helps you track your progress and stay on track with your meal planning goals. With personalized recommendations and reminders, you'll be able to stay organized and make the most of your meal planning efforts.
 
 So don't wait - start simplifying your kitchen routine and reducing food waste with SimplKitchen today. With our user-friendly interface and comprehensive set of features, you'll be well on your way to a healthier and more organized life.
+dev
